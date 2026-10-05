@@ -1,4 +1,16 @@
-##  <div align="center">
+<div align="center">
+
+<!-- FUTURISTIC TOP BANNER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:020617&text=STEIN&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=Software%20Builder%20%7C%20Problem%20Solver%20%7C%20Business%20%2B%20Technology&descAlignY=58&descSize=17" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+
+<a href="https://github.com/steinstein-web">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+real-world+problems+into+digital+solutions.;Building+software+that+connects+technology+with+business.;Learning+%E2%86%92+Building+%E2%86%92+Testing+%E2%86%92+Improving.;From+ideas+to+usable+products." alt="Typing SVG" />
+</a>
+
+<br>
 
 # 👋 Hey, I'm **Stein**
 
@@ -10,9 +22,23 @@ I’m a Business Information Technology student at **KCA University**, intereste
 
 [![GitHub](https://img.shields.io/badge/GitHub-steinstein--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/steinstein-web)
 
+<br>
+
+<!-- FUTURISTIC STATUS BADGES -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=steinstein-web\&style=for-the-badge\&color=0ea5e9)
+![GitHub followers](https://img.shields.io/github/followers/steinstein-web?style=for-the-badge\&logo=github\&color=0ea5e9)
+![GitHub Stars](https://img.shields.io/github/stars/steinstein-web?style=for-the-badge\&logo=github\&color=38bdf8)
+
 </div>
 
 ---
+
+<!-- ANIMATED SECTION DIVIDER -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38bdf8,50:6366f1,100:06b6d4&section=header" width="90%"/>
+</div>
 
 ## 🚀 About Me
 
@@ -40,19 +66,25 @@ I'm especially interested in building products that can grow beyond a classroom 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp&theme=dark" />
 
 ### Web & Application Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind&theme=dark" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+<br>
+
+<!-- ANIMATED TYPING TECH STACK -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=JavaScript+%7C+React+%7C+Node.js;PostgreSQL+%7C+MySQL+%7C+SQL;Git+%7C+GitHub+%7C+VS+Code;APIs+%7C+System+Design+%7C+Automation" alt="Tech Stack Animation"/>
 
 </div>
 
@@ -84,6 +116,29 @@ Future development can extend the platform toward bookings, payments, live avail
 
 🔗 **Repository:**
 https://github.com/steinstein-web/PathwayPal
+
+<br>
+
+<!-- ANIMATED PROJECT TERMINAL -->
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║              PATHWAYPAL SYSTEM                  ║
+╠══════════════════════════════════════════════════╣
+║  DISCOVER  →  COMPARE  →  PLAN  →  ORGANIZE    ║
+║                                                  ║
+║  [✓] Destinations                               ║
+║  [✓] Transport                                  ║
+║  [✓] Accommodation                              ║
+║  [✓] Activities                                 ║
+║  [✓] Dining                                     ║
+║  [✓] Itinerary Management                       ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -194,9 +249,23 @@ I believe good builders don't work in isolation — **they learn, share, collabo
 
 <div align="center">
 
+<!-- GITHUB STATS -->
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=steinstein-web&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinstein-web&layout=compact&hide_border=true&theme=transparent" />
+
+<br><br>
+
+<!-- STREAK -->
+
+<img src="https://streak-stats.demolab.com?user=steinstein-web&theme=transparent&hide_border=true" />
+
+<br><br>
+
+<!-- ACTIVITY GRAPH -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=steinstein-web&bg_color=00000000&color=38bdf8&line=6366f1&point=22d3ee&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -214,7 +283,13 @@ The long-term goal is to create technology products that solve meaningful proble
 
 ---
 
+<!-- FUTURISTIC ENDING -->
+
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE%2C+ONE+SYSTEM+AT+A+TIME.;CODE.+CREATE.+ITERATE.;TURN+IDEAS+INTO+REALITY.;KEEP+BUILDING." alt="Future Animation"/>
+
+<br><br>
 
 ### ⚡ Build. Learn. Improve. Repeat.
 
@@ -226,8 +301,11 @@ The long-term goal is to create technology products that solve meaningful proble
 
 ⭐ Explore the repositories · 🧠 Learn something · 🚀 Build something
 
-</div>
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer" width="100%"/>
+
+</div>
 
 <!--
 **steinstein-web/steinstein-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
