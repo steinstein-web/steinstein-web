@@ -156,10 +156,10 @@ https://github.com/steinstein-web/PathwayPal
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║                 PATHWAYPAL                      ║
+║                 PATHWAYPAL                       ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║   DISCOVER  →  COMPARE  →  PLAN  →  ORGANIZE    ║
+║   DISCOVER  →  COMPARE  →  PLAN  →  ORGANIZE     ║
 ║                                                  ║
 ║   [✓] Destinations                               ║
 ║   [✓] Transport                                  ║
