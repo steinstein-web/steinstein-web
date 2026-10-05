@@ -14,7 +14,7 @@
 
 # 👋 Hey, I'm **Stein**
 
-### Software Builder · Problem Solver · Business + Technology
+### Software Builder · Problem Solver · Business + Technology enthusiasts 
 
 **I turn real-world problems into practical digital solutions.**
 
