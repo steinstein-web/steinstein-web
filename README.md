@@ -1,50 +1,54 @@
 <div align="center">
 
-<!-- FUTURISTIC TOP BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:111827,100:020617&text=STEIN&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=Software%20Builder%20%7C%20Problem%20Solver%20%7C%20Business%20%2B%20Technology&descAlignY=58&descSize=17" width="100%"/>
-
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:0f172a,100:0e7490&text=STEIN&fontSize=62&fontColor=67e8f9&animation=fadeIn&fontAlignY=37&desc=Software%20Builder%20%C2%B7%20Problem%20Solver%20%C2%B7%20Business%20%2B%20Technology&descSize=17&descAlignY=61" width="100%"/>
 
 <a href="https://github.com/steinstein-web">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+real-world+problems+into+digital+solutions.;Building+software+that+connects+technology+with+business.;Learning+%E2%86%92+Building+%E2%86%92+Testing+%E2%86%92+Improving.;From+ideas+to+usable+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+real-world+problems+into+practical+digital+solutions.;Building+where+technology+meets+business.;From+classroom+foundations+to+real-world+systems.;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve." alt="Animated introduction"/>
 </a>
 
 <br>
 
-# 👋 Hey, I'm **Stein**
+### 👋 Hey, I'm **Stein**
 
-### Software Builder · Problem Solver · Business + Technology enthusiasts 
+**Software Builder · Problem Solver · Business + Technology**
 
 **I turn real-world problems into practical digital solutions.**
 
-I’m a Business Information Technology student at **KCA University**, interested in software development, databases, product building, automation, and technology that creates measurable value.
-
-[![GitHub](https://img.shields.io/badge/GitHub-steinstein--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/steinstein-web)
+I’m a **Business Information Technology student at KCA University**, building my experience across software development, databases, business systems, product development, automation, and IT support.
 
 <br>
 
-<!-- FUTURISTIC STATUS BADGES -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=steinstein-web\&style=for-the-badge\&color=0ea5e9)
-![GitHub followers](https://img.shields.io/github/followers/steinstein-web?style=for-the-badge\&logo=github\&color=0ea5e9)
-![GitHub Stars](https://img.shields.io/github/stars/steinstein-web?style=for-the-badge\&logo=github\&color=38bdf8)
+[![GitHub](https://img.shields.io/badge/GitHub-steinstein--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/steinstein-web)
+[![Profile Views](https://komarev.com/ghpvc/?username=steinstein-web\&style=for-the-badge\&color=0ea5e9)](https://github.com/steinstein-web)
+[![Followers](https://img.shields.io/github/followers/steinstein-web?style=for-the-badge\&logo=github\&color=6366f1)](https://github.com/steinstein-web)
 
 </div>
 
 ---
 
-<!-- ANIMATED SECTION DIVIDER -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38bdf8,50:6366f1,100:06b6d4&section=header" width="90%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22d3ee,50:6366f1,100:06b6d4" width="88%"/>
+
 </div>
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **Business Information Technology student and hands-on builder** who enjoys working where technology meets real business problems.
+I'm a **Business Information Technology student and hands-on builder** who enjoys working at the intersection of technology and real-world business problems.
 
-Rather than building software just for the sake of writing code, I like understanding **why a problem exists, who experiences it, and how technology can solve it effectively.**
+I’m interested in more than simply writing code. I like understanding:
+
+```text
+What is the problem?
+        ↓
+Who experiences it?
+        ↓
+What causes it?
+        ↓
+What should the solution do?
+        ↓
+How can technology make it better?
+```
 
 My interests currently revolve around:
 
@@ -52,15 +56,15 @@ My interests currently revolve around:
 * 🗄️ **Databases, SQL & Data Modeling**
 * 🌐 **Web Applications & Full-Stack Development**
 * ⚙️ **Automation & Business Process Improvement**
-* 🔐 **Cybersecurity & Technology Infrastructure**
+* 🔐 **Cybersecurity & IT Infrastructure**
 * 📊 **Data, Systems & Analytical Problem Solving**
 * 🚀 **Startups, Innovation & Digital Products**
 
-I'm especially interested in building products that can grow beyond a classroom project and become **useful, scalable solutions.**
+My goal is to keep moving from **learning concepts → building systems → solving practical problems**.
 
 ---
 
-## 🛠️ Technologies I Work With
+# 🛠️ Technologies I Work With
 
 <div align="center">
 
@@ -78,23 +82,52 @@ I'm especially interested in building products that can grow beyond a classroom 
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
 
-<br>
+<br><br>
 
-<!-- ANIMATED TYPING TECH STACK -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=JavaScript+%7C+React+%7C+Node.js;PostgreSQL+%7C+MySQL+%7C+SQL;Git+%7C+GitHub+%7C+VS+Code;APIs+%7C+System+Design+%7C+Automation" alt="Tech Stack Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2300&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=JavaScript+%7C+React+%7C+Node.js;PostgreSQL+%7C+MySQL+%7C+SQL;REST+APIs+%7C+Database+Design;Git+%7C+GitHub+%7C+Postman+%7C+VS+Code" alt="Tech stack animation"/>
 
 </div>
 
 <br>
 
-**Also experienced with:** `SQL` · `VB.NET` · `Postman` · `REST APIs` · `Database Design` · `Normalization` · `Relational Modeling`
+**Also experienced with:**
+`SQL` · `VB.NET` · `REST APIs` · `Postman` · `Database Design` · `Normalization` · `Relational Modeling`
 
 ---
 
-# 🌍 Featured Project
+# 🌐 My Project Journey
+
+<div align="center">
+
+```text
+        LEARN
+          │
+          ▼
+   🍞 SWEETCRUMBS
+   HTML FOUNDATIONS
+          │
+          ▼
+     🧠 SYNEXORA
+   BUSINESS SYSTEMS
+          │
+          ▼
+     🧭 PATHWAYPAL
+   PRODUCT DEVELOPMENT
+          │
+          ▼
+   🏢 ASSETMANAGEMENT
+    REAL-WORLD IT
+```
+
+</div>
+
+My projects reflect a progression from **learning the fundamentals of web development** to **designing business systems and working on practical workplace solutions**.
+
+---
+
+# 🌍 Featured Product
 
 ## 🧭 PathwayPAL
 
@@ -119,22 +152,22 @@ https://github.com/steinstein-web/PathwayPal
 
 <br>
 
-<!-- ANIMATED PROJECT TERMINAL -->
-
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║              PATHWAYPAL SYSTEM                  ║
+║                 PATHWAYPAL                      ║
 ╠══════════════════════════════════════════════════╣
-║  DISCOVER  →  COMPARE  →  PLAN  →  ORGANIZE    ║
 ║                                                  ║
-║  [✓] Destinations                               ║
-║  [✓] Transport                                  ║
-║  [✓] Accommodation                              ║
-║  [✓] Activities                                 ║
-║  [✓] Dining                                     ║
-║  [✓] Itinerary Management                       ║
+║   DISCOVER  →  COMPARE  →  PLAN  →  ORGANIZE    ║
+║                                                  ║
+║   [✓] Destinations                               ║
+║   [✓] Transport                                  ║
+║   [✓] Accommodation                              ║
+║   [✓] Activities                                 ║
+║   [✓] Dining                                     ║
+║   [✓] Itinerary Management                       ║
+║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
@@ -142,42 +175,75 @@ https://github.com/steinstein-web/PathwayPal
 
 ---
 
-# 💻 What I Like Building
+# 🧪 Selected Projects
 
-| Focus                      | What interests me                                              |
-| -------------------------- | -------------------------------------------------------------- |
-| 🧠 **Problem Solving**     | Turning unclear requirements into practical systems            |
-| 🌐 **Web Applications**    | Building useful, responsive and maintainable applications      |
-| 🗄️ **Data Systems**       | Designing databases that are structured, reliable and scalable |
-| ⚙️ **Automation**          | Removing repetitive work from business processes               |
-| 📊 **Business Technology** | Connecting software with real operational needs                |
-| 🚀 **Products & Startups** | Turning promising ideas into usable products                   |
+## 🧠 Synexora
 
----
+### *Academic / Class Project*
 
-# 🧪 Projects & Experiments
+**Smart Inventory & Sales Intelligence Platform for SMEs**
 
-### 🧭 PathwayPAL
+Synexora is a business-focused system designed to help SMEs centralize inventory and sales information while gaining clearer visibility into operational performance.
 
-Travel planning, comparison and itinerary management platform.
+The system focuses on:
 
-`JavaScript` · `Web Development` · `Product Design` · `Database Concepts`
+`Product Management` · `Inventory Tracking` · `Sales Recording` · `Revenue Analytics` · `Monthly Sales` · `Customer Mix` · `Channel Mix` · `Forecasting` · `Growth Signals` · `Reports`
 
----
-
-### 📦 SME Inventory & Sales Intelligence
-
-A business-focused system concept aimed at helping small and medium businesses manage inventory while gaining better visibility into sales and operational information.
+### Technology
 
 `React` · `Tailwind CSS` · `Node.js` · `Express` · `PostgreSQL` · `REST APIs`
 
+**Focus:** Business intelligence · Systems analysis · Data-driven decision support
+
 ---
 
-### 🖥️ IT Support Systems
+## 🍞 SweetCrumbs Bakery
 
-I’m also interested in building internal technology tools that make support operations faster and easier to manage, including structured issue reporting, ticket workflows, prioritization and service tracking.
+### *Academic / Class Project*
 
-`Web Applications` · `Systems Analysis` · `IT Support` · `Workflow Design`
+A bakery business website created as a foundational web-development project.
+
+The website demonstrates core HTML concepts through a complete fictional business experience including:
+
+`Home` · `About` · `Menu` · `Specials` · `Gallery` · `Testimonials` · `Contact` · `Location`
+
+It also demonstrates navigation, tables, forms, structured content and business-oriented presentation.
+
+### Technology
+
+`HTML5`
+
+**Focus:** Web fundamentals · Page structure · Navigation · Forms · Business website design
+
+---
+
+## 🏢 AssetManagement
+
+### *Workplace / Internal IT Project*
+
+An internal asset-management system being developed to help **Mwananchi Credit Limited** keep track of organizational assets.
+
+The project is centered around creating a more structured way of managing asset information and improving visibility into company assets for internal IT operations.
+
+### Focus
+
+`Asset Tracking` · `Information Management` · `Database Concepts` · `Systems Analysis` · `Internal IT Operations` · `Business Process Improvement`
+
+> **Note:** This is an internal workplace project. Company-specific data, credentials, proprietary workflows and sensitive implementation details are intentionally not published.
+
+---
+
+# 💻 What I Like Building
+
+| Focus                      | What interests me                                    |
+| -------------------------- | ---------------------------------------------------- |
+| 🧠 **Problem Solving**     | Turning unclear requirements into practical systems  |
+| 🌐 **Web Applications**    | Building useful and maintainable applications        |
+| 🗄️ **Data Systems**       | Designing structured and reliable databases          |
+| ⚙️ **Automation**          | Improving repetitive business processes              |
+| 📊 **Business Technology** | Connecting software with real operational needs      |
+| 🚀 **Products**            | Turning ideas into usable digital products           |
+| 🏢 **Internal Systems**    | Building tools that improve organizational workflows |
 
 ---
 
@@ -185,16 +251,19 @@ I’m also interested in building internal technology tools that make support op
 
 Technology isn't only about programming.
 
-My practical experience has also exposed me to:
+My practical experience has exposed me to several areas of IT and data operations.
 
-**IT Support**
+### 🖥️ IT Support
+
 Computer troubleshooting · Network/connectivity issues · Printers · IP phones · Software configuration · User support
 
-**Data & Operations**
+### 📊 Data & Operations
+
 Data annotation · Data entry · Transcription · Structured data handling · Quality-focused evaluation
 
-**Business Environment**
-Understanding how technology supports employees, workflows, customers and everyday business operations.
+### 🏢 Business Environment
+
+Understanding how technology supports employees, workflows, customers, operational processes, and everyday business needs.
 
 That combination is one of the things I value most about **Business Information Technology**.
 
@@ -202,7 +271,7 @@ That combination is one of the things I value most about **Business Information 
 
 # 🎓 Education
 
-### KCA University
+## KCA University
 
 **Diploma in Business Information Technology (DBIT)**
 
@@ -214,7 +283,7 @@ Areas of interest include:
 
 # 🌱 Currently Learning & Exploring
 
-I'm continuously expanding my technical range and focusing on becoming a stronger end-to-end builder.
+I'm continuously expanding my technical range and working toward becoming a stronger end-to-end builder.
 
 ```text
 Web Development       █████████████████░░░
@@ -225,7 +294,9 @@ Product Development   ███████████████░░░░�
 Cloud & Deployment    ████████████░░░░░░░░
 ```
 
-Currently sharpening my knowledge in **full-stack development, cybersecurity fundamentals, APIs, databases, deployment and software architecture.**
+Currently sharpening my knowledge in:
+
+**Full-stack development · Cybersecurity fundamentals · APIs · Databases · Deployment · Software architecture · Systems analysis**
 
 ---
 
@@ -233,7 +304,7 @@ Currently sharpening my knowledge in **full-stack development, cybersecurity fun
 
 I enjoy learning through communities, collaboration and exposure to different areas of technology.
 
-I've been involved with communities and university initiatives including:
+I've been involved with:
 
 **GDGoC KCA University**
 **KCAU Tech Playground**
@@ -249,21 +320,15 @@ I believe good builders don't work in isolation — **they learn, share, collabo
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=steinstein-web&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinstein-web&layout=compact&hide_border=true&theme=transparent" />
 
 <br><br>
 
-<!-- STREAK -->
-
 <img src="https://streak-stats.demolab.com?user=steinstein-web&theme=transparent&hide_border=true" />
 
 <br><br>
-
-<!-- ACTIVITY GRAPH -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=steinstein-web&bg_color=00000000&color=38bdf8&line=6366f1&point=22d3ee&area=true&hide_border=true" width="95%" />
 
@@ -271,27 +336,54 @@ I believe good builders don't work in isolation — **they learn, share, collabo
 
 ---
 
-# 🎯 My Direction
+# 🧭 My Development Philosophy
 
-I'm working toward becoming more than someone who simply **writes code**.
+I don't want to become someone who simply **writes code**.
 
-I want to become someone who can:
+I want to become someone who can understand a problem from different angles and take it from idea to implementation.
 
-**Understand the problem → Design the solution → Build the system → Deploy it → Improve it**
+```text
+UNDERSTAND
+     ↓
+DESIGN
+     ↓
+BUILD
+     ↓
+TEST
+     ↓
+DEPLOY
+     ↓
+IMPROVE
+     ↺
+```
 
-The long-term goal is to create technology products that solve meaningful problems, have real users and can grow into sustainable businesses.
+The aim is to develop the ability to connect:
+
+**Business problems + Technology + Data + Systems + Users**
+
+into practical solutions.
 
 ---
 
-<!-- FUTURISTIC ENDING -->
+# 🎯 My Direction
+
+I'm working toward becoming a stronger **software builder and technology problem solver** with a solid understanding of both business and IT.
+
+Long term, I want to work on technology products and systems that:
+
+**solve meaningful problems → have real users → create measurable value → continue improving**
+
+---
+
+# ⚡ What I'm Building Toward
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE%2C+ONE+SYSTEM+AT+A+TIME.;CODE.+CREATE.+ITERATE.;TURN+IDEAS+INTO+REALITY.;KEEP+BUILDING." alt="Future Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=750&color=38BDF8&center=true&vCenter=true&width=800&lines=CLASSROOM+PROJECTS+%E2%86%92+REAL+SYSTEMS;IDEAS+%E2%86%92+PRODUCTS;DATA+%E2%86%92+INSIGHTS;PROBLEMS+%E2%86%92+SOLUTIONS" alt="Career direction animation"/>
 
 <br><br>
 
-### ⚡ Build. Learn. Improve. Repeat.
+### **Build with purpose. Learn continuously. Solve real problems.**
 
 *"The best way to predict the future is to build it."*
 
@@ -303,21 +395,10 @@ The long-term goal is to create technology products that solve meaningful proble
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,50:111827,100:0e7490&section=footer" width="100%"/>
 
 </div>
 
 <!--
 **steinstein-web/steinstein-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
