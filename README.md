@@ -9,7 +9,6 @@
 I’m a Business Information Technology student at **KCA University**, interested in software development, databases, product building, automation, and technology that creates measurable value.
 
 [![GitHub](https://img.shields.io/badge/GitHub-steinstein--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/steinstein-web)
-[![Profile Views](https://komarev.com/ghpvc/?username=steinstein-web\&style=for-the-badge\&color=0e75b6)](https://github.com/steinstein-web)
 
 </div>
 
